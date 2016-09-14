@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _06.SumSeconds
 {
-    class Program
+    class SumSeconds
     {
         static void Main(string[] args)
         {
@@ -15,7 +15,7 @@ namespace _06.SumSeconds
             int thirdCOmpetitor = int.Parse(Console.ReadLine());
             int minutes = (firstCompetitor + secondCompetitor + thirdCOmpetitor) / 60;
             int seconds = (firstCompetitor + secondCompetitor + thirdCOmpetitor) % 60;
-            Console.WriteLine("{0}:{1}", minutes, seconds);
+            Console.WriteLine("{0}:{1:00}", minutes, seconds);
 
         }
     }

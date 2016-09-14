@@ -31,7 +31,7 @@ namespace _06.BonusScore
                 bonuspoints += 1;
 
             }
-            if (a % 10 ==5)
+            if (a % 10 == 5)
             {
                 bonuspoints += 2;
 
