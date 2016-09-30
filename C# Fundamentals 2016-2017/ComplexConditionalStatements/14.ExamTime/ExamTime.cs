@@ -15,30 +15,47 @@ namespace _14.ExamTime
             int examMinute = int.Parse(Console.ReadLine());
             int arrivingHour = int.Parse(Console.ReadLine());
             int arrivingMinute = int.Parse(Console.ReadLine());
-            int examHourInMin = examHour * 60;
-            int arrivingHourInMin = arrivingHour * 60;
-            int totalMins = (examHourInMin + examMinute) - (arrivingHourInMin + arrivingMinute);
-            if (totalMins <= 30 && totalMins > 0)
-            {
-                Console.WriteLine("On time {0} minutes before the start", totalMins);
-            }
-            else if (totalMins > 30)
-            {
-                Console.WriteLine("Early {0:00} minutes before the start", totalMins);
-            }
-            else if (totalMins < -59)
-            {
-                Console.WriteLine("Late {0:00} minutes after the start", Math.Abs(totalMins));
-            }
-            else if (totalMins == 0)
+            int totalExamMinutes = (examHour * 60) + examMinute;
+            int totalArrivingMinutes = (arrivingHour * 60) + arrivingMinute;
+            if (totalExamMinutes == totalArrivingMinutes)
             {
                 Console.WriteLine("On time");
             }
+            else if (totalExamMinutes > totalArrivingMinutes)
+            {
+                int totalTime = totalExamMinutes - totalArrivingMinutes;
+                if (totalTime <= 30)
+                {
+                    Console.WriteLine("On time {0} minutes before the start", totalTime);
+                }
+                else if (totalTime > 30 && totalTime < 60)
+                {
+                    Console.WriteLine("Early {0} minutes before the start ", totalTime);
+                }
+                else
+                {
+                    int hh = totalTime / 60;
+                    int mm = totalTime % 60;
+                    Console.WriteLine("Early {0}:{1:00} hours before the start", hh, mm);
+                }
+            }
             else
             {
-                Console.WriteLine("Late {0:00} minutes after the start", Math.Abs(totalMins));
+                int totalTime = totalArrivingMinutes - totalExamMinutes;
+                
+                if (totalTime < 60)
+                {
+                    Console.WriteLine("Late {0} minutes after the start ",totalTime);
+                }
+                else
+                {
+                    int hh = totalTime / 60;
+                    int mm = totalTime % 60;
+                    Console.WriteLine("Late {0}:{1:00} hours after the start", hh, mm);
+                }
             }
         }
-     }
+    }
 }
+
 
