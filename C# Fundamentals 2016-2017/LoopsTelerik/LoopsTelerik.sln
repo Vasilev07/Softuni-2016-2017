@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsTelerik", "LoopsTelerik\LoopsTelerik.csproj", "{D825D112-73CE-4921-A056-B8BE5A2415DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotDivisibleBy3And7", "NotDivisibleBy3And7\NotDivisibleBy3And7.csproj", "{28C7BE2A-65CD-415F-BCA9-E79D5C52BF63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMSA", "MMSA\MMSA.csproj", "{F8E3B9F7-DB88-4BFD-AA36-381F5A8CCD83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D825D112-73CE-4921-A056-B8BE5A2415DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D825D112-73CE-4921-A056-B8BE5A2415DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D825D112-73CE-4921-A056-B8BE5A2415DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D825D112-73CE-4921-A056-B8BE5A2415DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C7BE2A-65CD-415F-BCA9-E79D5C52BF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C7BE2A-65CD-415F-BCA9-E79D5C52BF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C7BE2A-65CD-415F-BCA9-E79D5C52BF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C7BE2A-65CD-415F-BCA9-E79D5C52BF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E3B9F7-DB88-4BFD-AA36-381F5A8CCD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E3B9F7-DB88-4BFD-AA36-381F5A8CCD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E3B9F7-DB88-4BFD-AA36-381F5A8CCD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E3B9F7-DB88-4BFD-AA36-381F5A8CCD83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
