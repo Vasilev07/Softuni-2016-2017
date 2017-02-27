@@ -1,40 +1,34 @@
-﻿namespace _09.ExtractMiddleElements
+﻿namespace _09.Extract_Middle_Elements
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    public class ExtractMiddleElement
+    using System.Text;
+
+    public class Array
     {
         public static void Main()
         {
-            var numbers = Console.ReadLine()
-                .Split(' ')
-                .Select(int.Parse)
-                .ToArray();
-            
-            if(numbers.Length == 1)
-            {
-                for (int i = 0; i < numbers.Length; i++)
-                {
-                    Console.WriteLine("{" + " " + numbers[i] + " " + "}");
-                }
-            }
-            else if (numbers.Length % 2 == 0)
-            {
-                for (int i = numbers.Length/2-1; i <= numbers.Length/2; i++)
-                {
-                    Console.WriteLine("{" + " " + numbers[i] + " " + "}");
-                }
-            }
-            else
-            {
-                for (int j=1 ,i = numbers.Length / 2 - j; i <= numbers.Length / 2 + 1 ; i++, j++)
-                {
-                    Console.WriteLine("{" + " " + numbers[i] + " " + "}");
-                }
-            }
-            
+           var input = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+           var list = new List<int>();
 
+            if (input.Length == 1)
+            {
+                list.Add(input[input.Length - 1]);
+            }
+            else if (input.Length % 2 != 0)
+            {
+                list.Add(input[(input.Length / 2) - 1]);
+                list.Add(input[(input.Length / 2) ]);
+                list.Add(input[(input.Length / 2) +1]);
+            }
+            else if (input.Length % 2 == 0)
+            {
+                list.Add(input[(input.Length / 2) - 1]);
+                list.Add(input[(input.Length / 2)]);
+            }
+
+            Console.WriteLine(string.Join(" ", list));
         }
     }
 }

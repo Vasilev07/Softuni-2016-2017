@@ -12,11 +12,11 @@
             int formingPreviousElements = int.Parse(Console.ReadLine());
             var sequenceHolder = new long[lenghtOfSequence];
             sequenceHolder[0] = 1;
-            //var holder = new int[lenghtOfSequence];
+
             long sum = 1;
             for (int i = 1; i < sequenceHolder.Length; i++)
             {
-                for (int j = i- formingPreviousElements; j < i-1; j++)
+                for (int j = i - formingPreviousElements; j < i - 1; j++)
                 {
                     if (j >= 0)
                     {
@@ -27,9 +27,6 @@
             }
 
             Console.WriteLine(string.Join(" ", sequenceHolder));
-
-
-            
         }
     }
 }
