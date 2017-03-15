@@ -1,0 +1,24 @@
+body{
+    margin-top:-70px;
+}
+
+.active{
+  display: inline-block;
+}
+
+
+.navbar-nav {
+  float: right;
+  margin-right: 100px;
+}
+.navbar-nav > li{
+  float: right;
+
+}
+.navbar > .container-fluid .navbar-brand {
+    margin-left: 120px;
+}
+
+nav navbar-nav{
+  margin-right: 120px;
+}

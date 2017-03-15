@@ -16,7 +16,6 @@ namespace _04.SieveOfEratosthenes
         {
             var primes = new bool[n + 1];
 
-
             for (int i = 0; i <= n; i++)
             {
                 primes[i] = true;

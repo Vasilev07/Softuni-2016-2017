@@ -1,0 +1,23 @@
+.first{
+  border-style: dotted;
+  border-color: blue;
+  border-radius: 30px;
+  width: 270px;
+}
+.second{
+  border-style: dotted;
+  border-color: red;
+  border-radius: 30px;
+  width: 225px;
+}
+.third{
+  border-style: solid;
+  border-color: green;
+  border-radius: 10px;
+  width: 175px;
+  text-align: center;
+}
+
+div{
+padding: 20px;
+}

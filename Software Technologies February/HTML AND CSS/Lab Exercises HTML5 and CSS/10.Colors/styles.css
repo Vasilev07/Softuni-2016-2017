@@ -1,0 +1,40 @@
+.red{
+  color: red;
+}
+
+.green{
+  color:green;
+}
+
+.blue{
+  color: blue;
+}
+
+#red{
+  border-color: red;
+  border-style: solid;
+  border-color: red;
+  border-radius: 10px  ;
+}
+
+#green{
+  border-color: green;
+  border-style: solid;
+  border-color: green;
+  border-radius: 10px;
+}
+
+#blue{
+  border-color: blue;
+  border-style: solid;
+  border-color: blue;
+  border-radius: 10px;
+
+}
+
+p{
+  background-color: #D3D3D3;
+  width: 150px;
+  padding: 10px 60px;
+   text-align: center;
+}
