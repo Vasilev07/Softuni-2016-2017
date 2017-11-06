@@ -26,6 +26,7 @@ namespace _10.PrimeCheck
                         isPrime = false;
                         break;
                     }
+                    else { }
                 }
             }
             if (isPrime)

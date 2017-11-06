@@ -10,13 +10,12 @@ namespace _04.TriangleOfDollars
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            string dollar = "$";
+           
             for (int r = 1; r <= n; r++)
             {
                 Console.Write(dollar);
                 Console.WriteLine();
-                dollar += " $";
+                dollar += i;
             }
 
             //for (int r = 1; r <= n; r++)

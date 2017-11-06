@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/14.DOM Manipulations LAB/04. Stopwatch.html" line="28" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd33f53e-8587-4951-869d-67ff9e98acf6" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JS Core" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="01. Aggregates.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17.Advanced Functions LAB/01. Aggregates.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02. Currency Format.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17.Advanced Functions LAB/02. Currency Format.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03.Command Processor.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17.Advanced Functions LAB/03.Command Processor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04.Max Element.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17.Advanced Functions LAB/04.Max Element.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.Next Article.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17.Advanced Functions LAB/05.Next Article.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1. Sum 3 Numbers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.Intro to JS/1. Sum 3 Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/10. Strings and RegExp Exercises/07. Find Variable Names in Sentences.js" />
+        <option value="$PROJECT_DIR$/JS CORE EXAM/01. The Pyramid of King Djoser.js" />
+        <option value="$PROJECT_DIR$/JS CORE EXAM/02. Jan's Notation.js" />
+        <option value="$PROJECT_DIR$/JS CORE EXAM/04. Galactic Elections.js" />
+        <option value="$PROJECT_DIR$/JS CORE EXAM/03. XML Messenger.js" />
+        <option value="$PROJECT_DIR$/11.Objects LAB/01. Towns to JSON.js" />
+        <option value="$PROJECT_DIR$/11.Objects LAB/02. Score to HTML.js" />
+        <option value="$PROJECT_DIR$/11.Objects LAB/03. JSON to HTML Table.js" />
+        <option value="$PROJECT_DIR$/11.Objects LAB/04.Sum by town.js" />
+        <option value="$PROJECT_DIR$/11.Objects LAB/05. Count Words in a Text.js" />
+        <option value="$PROJECT_DIR$/11.Objects LAB/06. Count Words with Maps.js" />
+        <option value="$PROJECT_DIR$/11.Objects LAB/07. Population in Towns.js" />
+        <option value="$PROJECT_DIR$/11.Objects LAB/08. City Markets.js" />
+        <option value="$PROJECT_DIR$/11.Objects LAB/09. Lowest Prices in Cities.js" />
+        <option value="$PROJECT_DIR$/11.Objects LAB/10. Extract Unique Words.js" />
+        <option value="$PROJECT_DIR$/12.Objects Exercises/01. Heroic Inventory.js" />
+        <option value="$PROJECT_DIR$/12.Objects Exercises/02. JSON's Table.js" />
+        <option value="$PROJECT_DIR$/12.Objects Exercises/03. Cappy Juice.js" />
+        <option value="$PROJECT_DIR$/12.Objects Exercises/04. Store Catalogue.js" />
+        <option value="$PROJECT_DIR$/12.Objects Exercises/05. Auto-Engineering Company.js" />
+        <option value="$PROJECT_DIR$/12.Objects Exercises/06. System Components.js" />
+        <option value="$PROJECT_DIR$/13.DOM LAB/01. Sum Numbers.html" />
+        <option value="$PROJECT_DIR$/13.DOM LAB/02. Show More.html" />
+        <option value="$PROJECT_DIR$/13.DOM LAB/03. Collect List.html" />
+        <option value="$PROJECT_DIR$/13.DOM LAB/05. Countdown.html" />
+        <option value="$PROJECT_DIR$/13.DOM LAB/06. Extract Parenthesis.html" />
+        <option value="$PROJECT_DIR$/13.DOM LAB/07. Sum Table.html" />
+        <option value="$PROJECT_DIR$/13.DOM LAB/04. Colorize Table.html" />
+        <option value="$PROJECT_DIR$/14.DOM Manipulations LAB/01. List of Items.html" />
+        <option value="$PROJECT_DIR$/14.DOM Manipulations LAB/02. Add-Delete.html" />
+        <option value="$PROJECT_DIR$/14.DOM Manipulations LAB/03. Delete from Table.html" />
+        <option value="$PROJECT_DIR$/14.DOM Manipulations LAB/04. Stopwatch.html" />
+        <option value="$PROJECT_DIR$/14.DOM Manipulations LAB/05. Mouse Gradient.html" />
+        <option value="$PROJECT_DIR$/14.DOM Manipulations LAB/06. Highlight Active.html" />
+        <option value="$PROJECT_DIR$/14.DOM Manipulations LAB/07. Dynamic Validation.html" />
+        <option value="$PROJECT_DIR$/15.jQuery LAB/01. Text from List.html" />
+        <option value="$PROJECT_DIR$/15.jQuery LAB/02. Search in List.html" />
+        <option value="$PROJECT_DIR$/15.jQuery LAB/03. Countries Table.html" />
+        <option value="$PROJECT_DIR$/15.jQuery LAB/04. Link Buttons.html" />
+        <option value="$PROJECT_DIR$/15.jQuery LAB/05. Selectable Towns.html" />
+        <option value="$PROJECT_DIR$/16.jQuery Exercises/01. Increment Counter.js" />
+        <option value="$PROJECT_DIR$/16.jQuery Exercises/03. Book Generator.html" />
+        <option value="$PROJECT_DIR$/16.jQuery Exercises/02.Timer.html" />
+        <option value="$PROJECT_DIR$/16.jQuery Exercises/01. Increment Counter.html" />
+        <option value="$PROJECT_DIR$/16.jQuery Exercises/04. Form Validation.html" />
+        <option value="$PROJECT_DIR$/16.jQuery Exercises/05. DOM Search.html" />
+        <option value="$PROJECT_DIR$/17.Advanced Functions LAB/01. Aggregates.js" />
+        <option value="$PROJECT_DIR$/17.Advanced Functions LAB/02. Currency Format.js" />
+        <option value="$PROJECT_DIR$/17.Advanced Functions LAB/03.Command Processor.js" />
+        <option value="$PROJECT_DIR$/17.Advanced Functions LAB/04.Max Element.js" />
+        <option value="$PROJECT_DIR$/17.Advanced Functions LAB/05.Next Article.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1860" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.Intro to JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Blog" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunManager" selected="Node.js.Node">
+    <configuration default="false" name="06. Restaurant Bill.js (1)" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <setting name="path" value="" />
+      <setting name="shellParams" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="05. Auto-Engineering Company.js" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <setting name="path" value="" />
+      <setting name="shellParams" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MongoRunConfiguration" factoryName="Mongo">
+      <setting name="path" value="" />
+      <setting name="shellParams" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="06. Restaurant Bill.js" type="MongoRunConfiguration" factoryName="Mongo">
+      <setting name="path" value="$PROJECT_DIR$/09.Strings and Regular Expressions Lab/06. Restaurant Bill.js" />
+      <setting name="shellParams" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Node" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="02. Currency Format.js" working-dir="$PROJECT_DIR$/17.Advanced Functions LAB">
+      <profiling v8-profiler-path="" />
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling v8-profiler-path="" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Mongo.06. Restaurant Bill.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Node" />
+      <item index="2" class="java.lang.String" itemvalue="Mongo.06. Restaurant Bill.js (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Mongo.05. Auto-Engineering Company.js" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Mongo.05. Auto-Engineering Company.js" />
+        <item index="1" class="java.lang.String" itemvalue="Mongo.06. Restaurant Bill.js (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd33f53e-8587-4951-869d-67ff9e98acf6" name="Default" comment="" />
+      <created>1494324788874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494324788874</updated>
+      <workItem from="1494324791167" duration="16699000" />
+      <workItem from="1494418892261" duration="1195000" />
+      <workItem from="1494420119012" duration="1879000" />
+      <workItem from="1494422019240" duration="1091000" />
+      <workItem from="1494505286944" duration="7025000" />
+      <workItem from="1494512432395" duration="4985000" />
+      <workItem from="1494584848052" duration="1731000" />
+      <workItem from="1494587549289" duration="3760000" />
+      <workItem from="1494608188327" duration="5005000" />
+      <workItem from="1494681390765" duration="13049000" />
+      <workItem from="1494768761030" duration="4635000" />
+      <workItem from="1495021162739" duration="9773000" />
+      <workItem from="1495192449229" duration="5297000" />
+      <workItem from="1495450469018" duration="2940000" />
+      <workItem from="1495625363409" duration="1590000" />
+      <workItem from="1495716174004" duration="8159000" />
+      <workItem from="1495725522411" duration="53000" />
+      <workItem from="1495726615011" duration="952000" />
+      <workItem from="1495791299479" duration="1367000" />
+      <workItem from="1495885655208" duration="3996000" />
+      <workItem from="1495960727003" duration="5004000" />
+      <workItem from="1496671575872" duration="6280000" />
+      <workItem from="1497095954373" duration="4340000" />
+      <workItem from="1497113791141" duration="3183000" />
+      <workItem from="1497280036121" duration="4044000" />
+      <workItem from="1497367339138" duration="2505000" />
+      <workItem from="1497369883886" duration="3398000" />
+      <workItem from="1497790645649" duration="18818000" />
+      <workItem from="1497809912180" duration="115000" />
+      <workItem from="1498548555483" duration="4082000" />
+      <workItem from="1498591339885" duration="6191000" />
+      <workItem from="1498742599018" duration="271000" />
+      <workItem from="1498898492166" duration="20285000" />
+      <workItem from="1499021774467" duration="6849000" />
+      <workItem from="1499180018845" duration="159000" />
+      <workItem from="1499180187913" duration="8119000" />
+      <workItem from="1499592237964" duration="3638000" />
+      <workItem from="1502875960562" duration="588000" />
+      <workItem from="1502879559953" duration="599000" />
+      <workItem from="1503052934794" duration="31000" />
+      <workItem from="1504407475779" duration="40000" />
+      <workItem from="1506790584666" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="193744000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1860" height="1098" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20627803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28938907" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37191853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/06.Functions and Arrow Functions Exercises/02. Road Radar.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/06.Functions and Arrow Functions Exercises/03. Template Format.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/06.Functions and Arrow Functions Exercises/03. Template Format.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/06.Functions and Arrow Functions Exercises/04. Cooking by Numbers.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/06.Functions and Arrow Functions Exercises/05. Modify Average.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/06.Functions and Arrow Functions Exercises/08. Trip Length.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/07.Arrays and Matrices LAB/09.Diagonal Sum.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/09.Strings and Regular Expressions Lab/02. Concatenate and Reverse.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/11.Objects LAB/02. Score to HTML.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="43" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JS CORE EXAM/02. Jan's Notation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS CORE EXAM/04. Galactic Elections.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS CORE EXAM/03. XML Messenger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="94" lean-forward="false" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.Objects LAB/04.Sum by town.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.Objects LAB/02. Score to HTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.Objects LAB/05. Count Words in a Text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.Objects LAB/01. Towns to JSON.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.Objects LAB/06. Count Words with Maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.Objects LAB/07. Population in Towns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.Objects LAB/09. Lowest Prices in Cities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.Objects LAB/10. Extract Unique Words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Objects Exercises/01. Heroic Inventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.Objects LAB/03. JSON to HTML Table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Objects Exercises/02. JSON's Table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.Objects LAB/08. City Markets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Objects Exercises/04. Store Catalogue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Objects Exercises/03. Cappy Juice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Objects Exercises/05. Auto-Engineering Company.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.Objects Exercises/06. System Components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.DOM LAB/01. Sum Numbers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.DOM LAB/02. Show More.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.DOM LAB/03. Collect List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.DOM LAB/05. Countdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.DOM LAB/07. Sum Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.DOM LAB/06. Extract Parenthesis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.DOM LAB/04. Colorize Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.DOM Manipulations LAB/01. List of Items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="534" column="22" lean-forward="false" selection-start-line="534" selection-start-column="22" selection-end-line="534" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.DOM Manipulations LAB/02. Add-Delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.DOM Manipulations LAB/03. Delete from Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.DOM Manipulations LAB/04. Stopwatch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="54" lean-forward="false" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.DOM Manipulations LAB/05. Mouse Gradient.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="63" lean-forward="false" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.DOM Manipulations LAB/06. Highlight Active.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.DOM Manipulations LAB/07. Dynamic Validation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="54" lean-forward="false" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.jQuery LAB/03. Countries Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="75" column="55" lean-forward="true" selection-start-line="75" selection-start-column="55" selection-end-line="75" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.jQuery LAB/01. Text from List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.jQuery LAB/04. Link Buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="29" lean-forward="false" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.jQuery Exercises/01. Increment Counter.js" />
+    <entry file="file://$PROJECT_DIR$/15.jQuery LAB/05. Selectable Towns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.jQuery LAB/02. Search in List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.jQuery Exercises/02.Timer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.jQuery Exercises/01. Increment Counter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.jQuery Exercises/03. Book Generator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.jQuery Exercises/04. Form Validation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.jQuery Exercises/05. DOM Search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.Advanced Functions LAB/01. Aggregates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.Advanced Functions LAB/02. Currency Format.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.Advanced Functions LAB/03.Command Processor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.Advanced Functions LAB/04.Max Element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.Advanced Functions LAB/05.Next Article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Intro to JS/1. Sum 3 Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

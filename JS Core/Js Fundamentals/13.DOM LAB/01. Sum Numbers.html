@@ -1,0 +1,13 @@
+<input type="text" id="num1" /> +
+<input type="text" id="num2" /> =
+<input type="text" id="sum" readonly="readonly" />
+<input type="button" value="Calc" onclick="calc()" />
+<script>
+    function calc() {
+        let firstOperand = document.getElementById('num1').value;
+        let secondOperand = document.getElementById('num2').value;
+
+        let result = Number(firstOperand) + Number(secondOperand);
+        let totalResult = document.getElementById('sum').value = result;
+    }
+</script>

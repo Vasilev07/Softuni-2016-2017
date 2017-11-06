@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Validation</title>
+
+    <script src="jquery-3.2.1.min.js"></script>
+    <style>
+        #wrapper{
+            margin:auto;
+            width: 410px;
+        }
+
+        form{
+            box-sizing: border-box;
+            background-image: url("");
+            width: 420px;
+            padding: 5px;
+        }
+
+        .pairContainer{
+            width: 95%;
+            display: table;
+            margin: 10px 0;
+        }
+
+        input{
+            float:right;
+            width: 60%;
+        }
+
+        label, legend{
+            color: darkblue;
+            font-weight: bold;
+        }
+
+        #submit{
+            box-sizing: border-box;
+            font-weight: bold;
+            color:white;
+            margin: 5px auto;
+            width: 95%;
+            background-color: blue;
+            display: block;
+        }
+
+        #valid{
+            box-sizing: border-box;
+            width: 420px;
+            padding: 5px;
+            color: lime;
+            border: 2px solid lime;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div id="wrapper">
+    <form id="registerForm">
+        <fieldset id="userInfo">
+            <legend>User Information:</legend>
+            <div class="pairContainer">
+                <label for="username">Userame:</label>
+                <input id="username" type="text">
+            </div>
+            <div class="pairContainer">
+                <label for="email">Email:</label>
+                <input id="email" type="text">
+            </div>
+            <div class="pairContainer">
+                <label for="password">Passwrod:</label>
+                <input id="password" type="password">
+            </div>
+            <div class="pairContainer">
+                <label for="confirm-password">Confirm Password:</label>
+                <input id="confirm-password" type="password">
+            </div>
+            <div class="pairContainer">
+                <label for="company">Is Company?</label>
+                <input id="company" type="checkbox">
+            </div>
+        </fieldset>
+        <fieldset id="companyInfo" style="display: none;">
+            <legend>Company Informaion:</legend>
+            <div class="pairContainer">
+                <label for="companyNumber">Company Number</label>
+                <input id="companyNumber" type="number">
+            </div>
+        </fieldset>
+        <button id="submit">Submit</button>
+    </form>
+    <div id="valid" style="display: none">Valid</div>
+</div>
+
+<script>
+    window.onload = function(){
+        validate();
+    }
+</script>
+<script>
+    function validate() {
+        let username = $('#username');
+        let password = $('#password');
+        let email = $('#email');
+        let confPassword = $('#confirm-password');
+        let companyCheckbox = $('#company');
+        let companyInfo = $('#companyInfo');
+        let companyNumber = $('#companyNumber');
+        let submitButton = $('#submit');
+        let valid = $('#valid');
+        let isAllValid = true;
+
+        let usernameRegex = /^[A-Za-z0-9]{3,20}$/;
+        let passwordRegex = /^\w{5,15}$/;
+        let emailRegex= /^.*?@.*?\..*?$/;
+
+        submitButton.click(function (ev) {
+            ev.preventDefault();
+            validateForm();
+            valid.css('display', isAllValid ? 'block':'none');
+            isAllValid = true;
+
+        });
+        companyCheckbox.change(function () {
+            if(companyCheckbox.is(':checked')){
+                companyInfo.css('display', 'block');
+            } else {
+                companyInfo.css('display', 'none');
+            }
+        })
+        function validateForm() {
+            validateInputWithRegex(username, usernameRegex);
+            validateInputWithRegex(email, emailRegex);
+            if(password.val() === confPassword.val()){
+                validateInputWithRegex(password,passwordRegex);
+                validateInputWithRegex(confPassword, passwordRegex);
+            } else {
+                confPassword.css('border', 'solid red');
+                password.css('border', 'solid red');
+                isAllValid = false;
+            }
+            if(companyCheckbox.is(':checked')){
+                validateCompanyInfo();
+            }
+
+        }
+        function validateCompanyInfo() {
+            let companyNumberValue = +companyNumber.val();
+            if(companyNumberValue >= 1000 && companyNumberValue <=9999){
+                companyNumber.css('border', 'none')
+            } else {
+                companyNumber.css('border', 'solid red');
+                isAllValid = false;
+            }
+        }
+        function validateInputWithRegex(input, regex) {
+            if(regex.test(input.val())){
+                input.css('border', 'none')
+            } else {
+                input.css('border', 'solid red')
+                isAllValid = false;
+            }
+        }
+    }
+</script>
+</body>
+</html>

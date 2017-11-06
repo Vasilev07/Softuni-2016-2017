@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM Search</title>
+    <script src="jquery-3.2.1.min.js"></script>
+    <style>
+        .add-controls, .search-controls {
+            width: 20em;
+            height: 2em;
+        }
+        input {
+            position: absolute;
+            left:6em;
+        }
+        .button {
+            background-color: darkgrey;
+            color: white;
+            font-weight: bold;
+            position: absolute;
+            left: 15em;
+            border: 1px solid black;
+            padding: 0 5px 0 5px;
+        }
+        .result-controls .button {
+            position: relative;
+            left: 0;
+            font-size: 50%;
+            margin-right:1em;
+            padding: 0;
+            bottom: 3px;
+        }
+        li {
+            list-style-type: none;
+        }
+    </style>
+</head>
+<body>
+<div id="content"></div>
+
+<script>
+    domSearch("#content");
+</script>
+<script>
+    function domSearch(selector, value = false) {
+        let container = $(selector);
+        let fragment = document.createDocumentFragment();
+        $('#content').addClass('items-control');
+
+        let addDiv = $('<div>').addClass('add-controls');
+        let enterText = $('<label>Enter text: </label>');
+        let newLi = $('<input>');
+        let addBtn = $('<a href="#">Add</a>').addClass('button').css('display', 'inline-block');
+
+        newLi.appendTo(enterText);
+        enterText.appendTo(addDiv);
+        addBtn.appendTo(addDiv);
+
+        let searchDiv = $('<div>').addClass('search-controls');
+        let enterTextToSearch = $('<label>Search: </label>');
+        let searchLi = $('<input>');
+        searchLi.appendTo(enterTextToSearch);
+        enterTextToSearch.appendTo(searchDiv);
+
+        let resultDiv = $('<div>').addClass('result-controls');
+        let ul = $('<ul>').addClass('items-list');
+        ul.appendTo(resultDiv);
+
+        addBtn.click(function () {
+            let textToAdd = newLi;
+            let textToAddValue = textToAdd.val();
+            if(textToAddValue.trim()!== '') {
+                let li = $('<li>').addClass('list-item');
+                let liButton = $('<a href="#">X</a>').addClass('button');
+                let text = $(`<strong>${textToAddValue}</strong>`);
+
+                liButton.appendTo(li);
+                text.appendTo(li);
+                li.appendTo(ul);
+                liButton.click(function () {
+                    li.remove();
+                });
+            }
+            textToAdd.val('');
+        });
+
+
+        searchLi.on("input", function () {
+            let textToSearch = searchLi.val();
+            $('.items-list .list-item').css('display', 'block');
+            if(value) {
+                $(`.items-list .list-item:not(:contains(${textToSearch}))`)
+                    .css('display', 'none');
+            } else {
+
+                $('.items-list .list-item')
+                    .filter((index, item) => !$(item).find("strong").text().toLowerCase().includes(textToSearch.toLowerCase()))
+                    .css('display', 'none');
+            }
+        });
+
+        addDiv.appendTo(fragment);
+        searchDiv.appendTo(fragment);
+        resultDiv.appendTo(fragment);
+        container.append(fragment);
+    }
+</script>
+</body>
+</html>
