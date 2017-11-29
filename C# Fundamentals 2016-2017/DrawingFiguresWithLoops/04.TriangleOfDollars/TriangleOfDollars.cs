@@ -4,31 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _04.TriangleOfDollars
+namespace ConsoleApp1
 {
-    class TriangleOfDollars
+    class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-           
-            for (int r = 1; r <= n; r++)
+            
+            int cycle = 0;
+          
+            while (true)
             {
-                Console.Write(dollar);
-                Console.WriteLine();
-                dollar += i;
-            }
+                int n = int.Parse(Console.ReadLine());
+                cycle++;
+                if (cycle == 10)
+                {
+                    break;
+                }
+                if(n % 2 == 0)
+                {
+                    Console.WriteLine(n);
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Please write an odd number.");
+                }
 
-            //for (int r = 1; r <= n; r++)
-            //{
-            //    Console.Write("$");
-            //    for (int c = 1; c < r; c++)
-            //    {
-            //        Console.Write(" $");
-            //    }
-            //    Console.WriteLine();
-            //}
-             
+            }
+          
         }
-        
     }
 }
